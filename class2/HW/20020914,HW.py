@@ -17,5 +17,3 @@ talk = 'hello'
 int:ball
 str:talk
 '''
-a = 1
-print(a)
