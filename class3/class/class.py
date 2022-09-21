@@ -7,3 +7,7 @@
 # r = float(input('請輸入半徑'))
 # area = pi * r**2
 # print(area)
+
+# git add .
+# git commit -m "提示文字"
+# git push
