@@ -3,7 +3,7 @@ import turtle as t
 #     t.forward(100)
 #     t.left(90)
 # t.done()
-
+t.speed(0)
 t.shape('turtle')
 t.left(90)
 t.forward(100)
