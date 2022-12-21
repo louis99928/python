@@ -6,7 +6,6 @@ while end == True:
     print('1.新增餐點')
     print('2.移除餐點')
     print('3.提交餐點')
-
     try:
         aa = int(input('請輸入功能選項:'))
     except:
@@ -54,11 +53,4 @@ while end == True:
                     end = False
         else:
             print('請輸入正確數字')
-
 print('菜單已提交囉!')
-
-# bag2 = []
-# for i in bag:
-#     if not (i in bag2):
-#         bag2.append(i)
-#         print(f'{i}={bag.count(i)}')
