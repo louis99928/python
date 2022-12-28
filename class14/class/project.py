@@ -1,7 +1,7 @@
 bag = {}
 e = 0
 while True:
-    print('1.新增科目與成績')
+    print('1.新增科目')
     print('2.移除成績')
     print('3.關閉系統')
     print('4.算平均')
