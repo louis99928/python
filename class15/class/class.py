@@ -1,5 +1,5 @@
 def hello(name):
-    print(f'FUCK YOU!{name}')
+    print(f'.....{name}')
     return f'hello {n} haha'
 
 

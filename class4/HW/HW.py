@@ -1,7 +1,7 @@
 while True:
     try:
         c = float(input('請輸入華氏溫度'))
-    excpt:
+    except:
         print('請輸入數字')
     else:
         answer = (c - 32) * 5 / 9
